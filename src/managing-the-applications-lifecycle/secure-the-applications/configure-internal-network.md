@@ -9,7 +9,11 @@ OutSystems applications can set the access to specific elements (Web UI Flows, e
 
 <div class="info" markdown="1">
 
-This procedure applies only to **self-managed environments**. For OutSystems Cloud installations, contact [OutSystems Support](https://www.outsystems.com/SupportPortal/CaseOpen/) and provide the desired internal network addresses.
+This procedure applies only to **self-managed environments**. For OutSystems Cloud installations, contact [OutSystems Support](https://www.outsystems.com/SupportPortal/CaseOpen/) and provide the following information:
+* List of environments to configure an internal network
+* Desired internal network addresses to configure for each environment
+* Proposed **schedule** for applying the configuration
+  You may have a limited time window to allow the operation.
 
 </div>
 
